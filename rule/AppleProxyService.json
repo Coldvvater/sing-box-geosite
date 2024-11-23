@@ -26,11 +26,13 @@
     },
     {
       "domain_keyword": [
+        "apple-relay",
         "testflight"
       ]
     },
     {
       "domain_suffix": [
+        "apple-relay.cloudflare.com",
         "apple.news",
         "appsto.re",
         "smoot.apple.com"
