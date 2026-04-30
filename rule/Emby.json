@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "DOMIN-SUFFIX",
         "cc.coemn.com",
         "cdn1.nebula-media.org",
         "cf-cdn1.nebula-media.org",
@@ -9,11 +10,9 @@
         "cuinf.sfcat.link",
         "emby-cdn1.nebula-media.org",
         "emby.nebula-media.org",
-        "global.uhdnow.com",
         "notnetflix.cos.cat",
         "starharn-cf.nebula-media.org",
         "starharn.nebula-media.org",
-        "v1.uhdnow.com",
         "web-starharn.nebula-media.org",
         "web.nebula-media.org"
       ]
@@ -183,6 +182,7 @@
         "theluyuan.com",
         "tkremby.xyz",
         "tv.worldline.space",
+        "uhdnow.com",
         "uuuoo.cc",
         "wiri.tk",
         "xiaoyi.one",
